@@ -1,0 +1,11 @@
+{
+  "name": "gra_echo_mroku",
+  "version": "1.0.0",
+  "description": "Gra przeglądarkowa turowa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mountain_bit7",
+  "license": "ISC"
+}
