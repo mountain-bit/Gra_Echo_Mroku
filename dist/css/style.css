@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+  border: 2px;
+}
+body div {
+  color: gray;
+}
