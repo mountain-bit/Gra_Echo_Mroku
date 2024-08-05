@@ -14,8 +14,6 @@ const ObrazeniaNazwy={
     zatrucie:11
 }
 
-console.log(ObrazeniaNazwy.magiczne);
-
 class Obrazenia{
     //tworzy tylko strukture 
     constructor(punktyObrazen){
