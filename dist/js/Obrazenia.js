@@ -14,6 +14,27 @@ const ObrazeniaNazwy={
     zatrucie:11
 }
 
+const ObrazeniaNazwyObr={
+    fizyczne:1,
+    magiczne:2,
+    błyskawica:3,
+    ogień:4,
+    spaczenia:5,
+    święte:6
+}
+
+const LeczenieNazwy={
+    leczenieFizyczne:7,
+    leczenieMagiczne:8,
+    leczenieSwięte:9
+}
+
+const ObrazeniaStatus={
+     
+    krwawienie:10,
+    zatrucie:11
+}
+
 class Obrazenia{
     //tworzy tylko strukture 
     constructor(punktyObrazen){
